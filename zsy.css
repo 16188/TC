@@ -1,0 +1,184 @@
+#wechat_float_qrcode{display:none;width:110px;height:162px;text-align:center;position:fixed;top:220px;right:0px;z-index:100;}
+#tuiguangma{width:100px;height:100px;}
+#pt img{display:none; }
+@media (max-width:960px) {
+	#toptb,#reginfo_a th div,.pls,#fj,#hd .vm,.tshare,.fastlg_fm,#frt,.z a:last-child,#qmenu,#pgt,#sd_bdl,.bm .pgb,.tl .th tr .by, .tl .th tr .num, .tl table tr .by, .tl table tr .num,.tl .icn,#threadlist .ts,#wp .d_tags,.category_l1,#wj_users,#wj_online,.bm_c .xg2,.vwthd div.y,#um .avt,#um p:last-child,#fastsmilies,#e_controls .mbn,#scrolltop,#post_replytmp,#ct .flb,#block_subforum,#ct .appl,#nv_member .tipcol,#append_parent .tipcol,#pt .y,.pg_index #pt,#newspecialtmp,.wp #um p a,#um p span,#e_adv_s2,#e_bbar,.pnpost .y,#nv_home .tl td,#nv_home .tl .th,#flk p:last-child,#category_lk,#sitefocus,.a_fl,.a_f,.a_h{
+	display: none;
+	}
+	#pt img{display:block; }
+	body{
+	background: #FFF;
+	}
+	body #hd .wp,.wp{
+	    width: 100%;
+	    padding:0px;
+	}
+	#hd .wp h2{
+	padding:0px;	
+	}
+	#hd .wp h2 img{
+	height:50px;	
+	}
+	#hd .fastlg{
+	padding-right: 10px;	
+	}
+	#hd .hdc{
+		min-height: 50px;
+	}
+	.t_fsz img{
+		float: left;
+	}
+	#ft #flk{
+	font-size: 10px;
+	float: none;
+    text-align: center;
+	}
+   .plc{
+   	padding: 0 8px;
+   }
+   .hasfsl{
+   	margin-right: 0;
+   }
+   #fwin_sharethread{
+   	left: 0px !important;
+   }
+   #fwin_login{
+   	left: 0px !important;
+   }
+   .rfm{
+   	width:100%;
+   }
+   .rfm th{
+   	width:5em;
+   }
+   .authi .zuozhe{
+   	display: inline;
+   	vertical-align: middle;
+   }
+   #postlist .vwthd{
+   	padding-right: 0px;
+   }
+   .wp #nv li{
+   	display: none;
+   }
+   a img{
+    max-width: 100%;   
+   }
+   #hd #nv li:nth-child(n+7){
+   	display: block;
+   }
+   /* 列表页面 */
+   #threadlist tbody:first-child{
+   	display: none;
+   }
+   #ct{
+   	margin-left:0px !important;
+   }
+   tr .zuozhe{
+   	display: block;
+   }
+   .tl table tr th {
+    width: 100%;
+   }
+   .tl th, .tl td.fn {
+    padding-right: 0px;
+   }
+   .pg .last{
+   	display: inline;
+   }
+   #share_link{
+   	width: 100%;
+   }
+   #nv_home .ct2_a .mn{
+   	margin:0;
+   }
+   .wp .login,.wp .reg{
+   padding: 2px 2px;
+   }
+   .wp .fastlg{
+   	line-height: 15px;
+   }
+  /*版块页面 */
+  .wp #wj_hot24{
+   width: 50%;
+   border:none;
+  }
+  #hd .wp .fastlg{
+  padding-top: 10px;
+  }
+  /*首页*/
+  .bm_c .fl_g{
+  	width:100% !important;
+  	float: left;
+  }
+  .a_f img{
+  	width: 100%;
+  }
+  #chart .chart{
+   padding-left:0;
+   background:none;
+  }
+  /*登录后*/
+  #um{
+   padding-right: 6px;
+  }
+  .wp #um{
+   padding-top: 0px;
+  } 
+  #um p a:last-child{
+  	display: inline;
+  	line-height: 50px;
+  }
+  #e_image_menu{
+  	width:99% !important;
+  	left:0px !important;
+  }
+  #postbox .z{
+  	float: none;
+  }
+  #postbox #subject{
+  	width: 95%!important;
+  }
+  /*发帖页面*/
+  #ct .c,#ct .pbl{
+  	width: 100%!important;
+  }
+  #tags{
+  	width: 96%;
+  }
+  #ct .pbl li{
+  	width: 22%;
+  }
+  #moodfm {
+  	margin-left: 15px;
+  }
+  #moodfm td textarea{
+  	width: 100%;
+  }
+  /*记录页面*/
+  #ct .mn{
+  	width: 100%;
+  }
+  #wp .ct2_a, .ct3_a{
+  	background:none;
+  }
+  #ct .xlda{
+  	margin-left:6px;
+  }
+  /*弹窗页面*/
+  #append_parent .fwinmask{
+  	left:0!important;
+  }
+  #append_parent .flb span{
+  	float: none;
+  }
+  #append_parent .pmfm .pn{
+  	float:left;
+  }
+  #append_parent .m_c .o{
+  	text-align: left;
+  }
+  #ct .nfl .f_c,#ct .altw{
+  	width: 82%;
+  }
+}
